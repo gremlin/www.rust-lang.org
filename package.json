@@ -7,7 +7,7 @@
     "extends": "stylelint-config-recommended-scss"
   },
   "devDependencies": {
-    "lighthouse": "^3.2.1",
+    "lighthouse": "^12.8.1",
     "stylelint": "^9.3.0",
     "stylelint-config-recommended-scss": "^3.2.0",
     "stylelint-scss": "^3.1.3"
